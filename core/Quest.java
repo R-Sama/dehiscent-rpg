@@ -12,6 +12,6 @@ public class Quest {
     private String questName, questDescription;
     private String questRequirement;
     private Map<String, String> requirementList;
-
+    private String derp; // ignore this.
 
 }
